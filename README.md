@@ -5,7 +5,7 @@
 - VsCode
 # Como testar
 - 1 Clonar o repositório
- - 1.5 Caso o nome da pasta principal não esteja com o nome avaliacaoimc troque o nome da pasta para avaliacaoimc
+  - 1.5 Caso o nome da pasta principal não esteja com o nome avaliacaoimc troque o nome da pasta para avaliacaoimc
 - 2 Abrir com Android Studio ou VsCode
 - 3 Em um terminal, executar o comando:
 ```
